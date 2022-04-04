@@ -73,19 +73,6 @@ https://github.com/BeMyCuteCat/interview
 
 ### 5、部署与运行
 
-选用华为云虚拟机环境
-远程ip地址：122.9.65.85
-端口：22
-用户名：root
-密码：1SHEN1zhen11
-
-运行：/root/start.sh
-运行日志：/root/interview.log
-
-mysql账号：root
-密码: Aa@123456
-
-java使用 openJDK 1.8
 
 ### 6、客户端
 
